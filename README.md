@@ -1,4 +1,4 @@
-# Install Kamailio in Ubuntu 11.6
+# Install Kamailio in Debian 11.6
 
 1. apt search kam
 
